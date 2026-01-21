@@ -8,5 +8,11 @@
   },
   "author": "alfimonth",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "@babel/preset-env": "^7.28.6",
+    "@types/jest": "^30.0.0",
+    "babel-jest": "^30.2.0",
+    "jest": "^30.2.0"
+  }
 }
