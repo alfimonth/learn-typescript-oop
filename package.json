@@ -1,0 +1,12 @@
+{
+  "name": "learn-typescript-oop",
+  "version": "1.0.0",
+  "description": "Learn Typescript OOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alfimonth",
+  "license": "ISC",
+  "type": "module"
+}
