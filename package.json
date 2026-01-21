@@ -4,7 +4,12 @@
   "description": "Learn Typescript OOP",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
+  },
+  "jest":{
+    "transform": {
+      "^.+\\.[t|j]sx?$": "babel-jest"
+    }
   },
   "author": "alfimonth",
   "license": "ISC",
